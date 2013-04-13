@@ -6,3 +6,8 @@ Réseau social pour les riders, partage de spots, d'éxpérience, de point de vu
 Dévellopement
 =======
  Site basé sur le Framework [CakePHP](http://cakephp.org)
+
+Contributors
+=======
+
+[Justclara](http://justclara.sainter-city.fr)
